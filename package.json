@@ -8,19 +8,13 @@
     "postcss-plugin",
     "chinese"
   ],
-  "author": {
-    "name": "zhouwenbin",
-    "email": "zwb86@qq.com"
-  },
+  "author": "zhouwenbin <zwb86@qq.com>",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zhouwenbin/postcss-chinese-stylesheets.git"
-  },
+  "repository": "johnie/postcss-chinese-stylesheets",
   "bugs": {
-    "url": "https://github.com/zhouwenbin/postcss-chinese-stylesheets/issues"
+    "url": "https://github.com/johnie/postcss-chinese-stylesheets/issues"
   },
-  "homepage": "https://github.com/zhouwenbin/postcss-chinese-stylesheets",
+  "homepage": "https://github.com/johnie/postcss-chinese-stylesheets",
   "dependencies": {
     "lodash": "^3.10.1",
     "postcss": "^5.0.2",
@@ -35,27 +29,5 @@
   },
   "scripts": {
     "test": "gulp"
-  },
-  "gitHead": "b76c0d95fb82b0461090fbf791afe0f1d2c5df0e",
-  "_id": "postcss-chinese-stylesheets@1.0.2",
-  "_shasum": "22991d699f9c5b74edffc0f9ffd45b9d8523beec",
-  "_from": "postcss-chinese-stylesheets@*",
-  "_npmVersion": "2.14.4",
-  "_nodeVersion": "4.1.1",
-  "_npmUser": {
-    "name": "zhouwenbin",
-    "email": "zwb86@qq.com"
-  },
-  "maintainers": [
-    {
-      "name": "zhouwenbin",
-      "email": "zwb86@qq.com"
-    }
-  ],
-  "dist": {
-    "shasum": "22991d699f9c5b74edffc0f9ffd45b9d8523beec",
-    "tarball": "http://registry.npmjs.org/postcss-chinese-stylesheets/-/postcss-chinese-stylesheets-1.0.2.tgz"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/postcss-chinese-stylesheets/-/postcss-chinese-stylesheets-1.0.2.tgz"
+  }
 }
