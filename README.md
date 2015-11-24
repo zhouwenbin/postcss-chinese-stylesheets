@@ -1,4 +1,4 @@
-# <img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/200px-Flag_of_the_People%27s_Republic_of_China.svg.png" alt="china" height="32px" width="auto"> PostCSS chinese Stylesheets [![Build Status][ci-img]][ci]
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png" alt="china" height="32px" width="auto"> PostCSS chinese Stylesheets [![Build Status][ci-img]][ci]
 
 > [PostCSS] plugin for writing chinese Style Sheets.
 
