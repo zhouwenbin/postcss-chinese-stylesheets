@@ -1,5 +1,7 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png" alt="china" height="32px" width="auto"> PostCSS chinese Stylesheets [![Build Status][ci-img]][ci][![npm version](https://badge.fury.io/js/postcss-chinese-stylesheets.svg)](https://badge.fury.io/js/postcss-chinese-stylesheets)
 
+[![Join the chat at https://gitter.im/zhouwenbin/postcss-chinese-stylesheets](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zhouwenbin/postcss-chinese-stylesheets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > [PostCSS] plugin for writing chinese Style Sheets.
 
 [PostCSS]: https://github.com/postcss/postcss
